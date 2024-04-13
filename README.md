@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" alt="Coding GIF" width="500" />
 </p>
 
 - 🌱 I’m currently learning **Actively enhancing my skills in automated and manual testing methodologies**
@@ -17,11 +17,21 @@
   - **Testing Tools**: Utilizing tools like Selenium and Postman.
   - **Bug Documentation**: Strategies for accurate and helpful reporting.
 
-- 📫 How to reach me **nntamnhu01@gmail.com**
+- 📫 How to reach me:
+      <p>You can reach out to me directly via email at <a href="mailto:your_email@example.com" style="color: #0d6efd; text-decoration: none; font-weight: bold;">your_email@example.com</a></p>
+      <p>Connect with me on social media:</p>
+      <ul>
+          <li>📘 Facebook: <a href="https://facebook.com/yourfacebookprofile" style="color: #3b5998;">your Facebook profile</a></li>
+      </ul>
+
 
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 5px solid #0d6efd; margin: 20px 0;">
-  <p><strong>Tip:</strong> Always aim to learn and grow in your field. Continuous improvement is key to success in software testing!</p>
+    <p><strong> 💡 Tip:</strong> Always aim to learn and grow in your field. Continuous improvement is key to success in software testing!</p>
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="500" />
+</p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="center">

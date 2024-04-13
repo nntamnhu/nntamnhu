@@ -18,11 +18,11 @@
   - **Bug Documentation**: Strategies for accurate and helpful reporting.
 
 - 📫 How to reach me:
-      <p>You can reach out to me directly via email at <a href="mailto:your_email@example.com" style="color: #0d6efd; text-decoration: none; font-weight: bold;">your_email@example.com</a></p>
-      <p>Connect with me on social media:</p>
-      <ul>
-          <li>📘 Facebook: <a href="https://facebook.com/yourfacebookprofile" style="color: #3b5998;">your Facebook profile</a></li>
-      </ul>
+      <p>You can reach out to me directly via email at <a href="mailto:nntamnhu@gmail.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Email-blue.svg?style=flat&logo=mail" alt="Email Badge"></a></p>
+      <p>Connect with me on social media:<a href="https://web.facebook.com/tamnhu1812" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"></a></p>
+
 
 
 <div style="background-color: #f8f9fa; padding: 15px; border-left: 5px solid #0d6efd; margin: 20px 0;">
